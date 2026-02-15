@@ -8,6 +8,11 @@ A real time gesture controlled music player built using computer vision. Control
 
 👉 https://www.youtube.com/watch?v=xv0RFg9DShM
 
+### Demo Preview
+<p align="center">
+  <img src="https://s12.gifyu.com/images/bvwUb.gif" width="700"/>
+</p>
+
 ---
 
 ## Features
